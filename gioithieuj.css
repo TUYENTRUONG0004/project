@@ -1,0 +1,12 @@
+body{
+        background-image: url('../backgro.jpg') ;
+        background-size:cover;
+        line-height: 20px;
+        font-size: 15px;
+    }
+    li {
+        color: rgb(0, 0, 0);
+        display: block;
+        padding: 18px 20px;
+        text-decoration: none;
+    }
